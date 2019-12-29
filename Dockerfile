@@ -1,5 +1,5 @@
 # Get the latest LTS
-From ubuntu:latest
+From ubuntu:xenial
 MAINTAINER Michael Soh
 
 # Set non-interactive mode for apt-get
