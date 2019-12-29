@@ -30,6 +30,9 @@ RUN apt-get update && apt-get install -y \
     postfix \
     postfix-mysql \
     supervisor \
+#   add dovecot packages
+    dovecot-imapd \
+    dovecot-pop3d \
 #   Skip installing these packages
     ifupdown- \
     iproute2- \
