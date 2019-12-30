@@ -5,10 +5,6 @@ meaning that the Dockerfile was used as a reference but enough changes
 were made that direct contribution may not necessarily be necessary but
 would not be in the spirit of Open Source.
 
-## This image is still under active development
-
-I am actively building this image as of February 20, 2017.
-
 ## Image Requirements
 
 The reason I am creating a new image instead of the [literally
